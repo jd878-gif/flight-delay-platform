@@ -1,4 +1,4 @@
-# ✈ US Flight Delay Intelligence Platform
+# US Flight Delay Intelligence Platform
 
 A production-style distributed data pipeline built with **Apache PySpark** that processes 10 years of US airline on-time performance data (171,666 records across 23 airlines and 395 airports) using a **Bronze → Silver → Gold Medallion architecture**.
 
